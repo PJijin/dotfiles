@@ -2,18 +2,18 @@
 
 Collection of software, Extensions, Plugins that I use 🤓
 
-## IDE
+## IDE 💻
 Visual Code 
 
 Sublime 
 
-## Font
+## Font ✍🏻
 Fira Code
 
-## Terminal
+## Terminal 🔲
 Hyper (Mac,Linux,Win)
 
 iTerm (Mac)
 
-## Web Softwares 
+## Web Softwares  👨🏼‍💻
 Laragon (Win)
