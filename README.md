@@ -3,17 +3,17 @@
 Collection of software, Extensions, Plugins that I use 🤓
 
 ## IDE 💻
-Visual Code 
+Visual Code  (https://code.visualstudio.com/)
 
-Sublime 
+Sublime (https://www.sublimetext.com/)
 
 ## Font ✍🏻
-Fira Code
+Fira Code (https://github.com/tonsky/FiraCode)
 
 ## Terminal 🔲
-Hyper (Mac,Linux,Win)
+Hyper (Mac,Linux,Win) (https://hyper.is)
 
-iTerm (Mac)
+iTerm (Mac) (https://www.iterm2.com/)
 
 ## Web Softwares  👨🏼‍💻
-Laragon (Win)
+Laragon (Win) (https://laragon.org)
