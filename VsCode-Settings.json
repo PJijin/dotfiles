@@ -1,0 +1,42 @@
+{
+  "workbench.colorTheme": "Shades of Purple",
+  "workbench.statusBar.visible": false,
+  "explorer.openEditors.visible": 0,
+  "editor.tabCompletion": true,
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "git.enableSmartCommit": true,
+  "workbench.iconTheme": "vscode-icons", 
+  "editor.wordWrap": "on",
+  "emmet.triggerExpansionOnTab": true,
+  "blade.format.enable": true,
+  "files.autoSave": "off",
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+  "terminal.integrated.fontFamily": "Inconsolata-dz for Powerline",
+  "window.titleBarStyle": "custom",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "blade": "html"
+  },
+  "editor.snippetSuggestions": "top",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}", 
+  "workbench.activityBar.visible": true,
+  "workbench.sideBar.location": "left",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true,
+  "prettier.jsxBracketSameLine": true,
+  "editor.fontFamily": "FiraCode-Retina, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true, 
+  "cSpell.userWords": [
+    "Devzstudio"
+  ]
+}
