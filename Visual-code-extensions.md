@@ -51,13 +51,13 @@ Polacode - P & P
 
 ## VSCode Theme 🖌️
 
-Shades of Purple - Ahmadawais
- 
+Material Theme High Contrast
+
 ## Install All Using this code command 💽
 
 code --install-extension aaron-bond.better-comments
 
-code --install-extension ahmadawais.shades-of-purple
+code --install-extension Equinusocio.vsc-material-theme
 
 code --install-extension bierner.markdown-emoji
 
