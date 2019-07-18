@@ -1,5 +1,8 @@
 ## Visual Code Extensions 🧩
 
+Advanced-new-file - patbenatar
+
+
 Auto Close Tag  - Jun Han
 
 Auto Rename Tag - Jun Han
@@ -8,9 +11,9 @@ Better Comments - Aaron Bond
 
 Bracket Pair Colorize - CoenraadS
 
-Carbon-now-sh - Eric Adamski
-
 Code Spell Checker - Street Side Software
+
+CDNJS - Jake Wilson
 
 DotENV - mikestead
 
@@ -46,7 +49,18 @@ Path intellisense - Christian Kohler
 
 Styled Components - jpoissonnier
 
-Polacode - P & P
+Highlight Matching Tag - vincaslt
+
+Indenticator - SirTori
+
+Live Share - Microsoft
+
+Output Colorizer - IBM
+
+Quokka.js - Wallbyjs
+
+TSLint - Microsoft
+
 
 
 ## VSCode Theme 🖌️
@@ -81,8 +95,6 @@ code --install-extension eamodio.gitlens
 
 code --install-extension EQuimper.react-native-react-redux
 
-code --install-extension ericadamski.carbon-now-sh
-
 code --install-extension esbenp.prettier-vscode 
 
 code --install-extension formulahendry.auto-close-tag
@@ -102,8 +114,6 @@ code --install-extension negokaz.live-server-preview
 code --install-extension nikitaKunevich.snippet-creator
 
 code --install-extension onecentlin.laravel-blade
-
-code --install-extension pnp.polacode
 
 code --install-extension Prisma.vscode-graphql
 
